@@ -39,6 +39,7 @@ tags: [climate change]
    - Tools
       - Palette Generator: <a href="https://waldyrious.net/viridis-palette-generator/">site</a>
       - Latex Symbols: <a href="https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf">pdf1</a> ; <a href="https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf">pdf2</a>
+      - <a href="https://liupq.wordpress.com/2008/09/17/%E5%B8%B8%E8%A7%81%E6%95%B0%E5%AD%A6%E6%9C%AF%E8%AF%AD%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7-%E4%B8%80/">Terms(CH-EN)</a>
 
 - Misc
    - John Stuart Mill: <a href="https://www.socialstudies.org/sites/default/files/john_stuart_mill.pdf">On Liberty</a>
