@@ -2,8 +2,8 @@
 title: References & Tools
 #author: nx
 date: 2023-11-14 07:50:00 Australia/Melbourne
-categories: [PHD, Reference]
-tags: [climate change]
+categories: [Notebook, Reference]
+tags: [climate,math,tools,misc]
 #pin: true
 #math: true
 #mermaid: true

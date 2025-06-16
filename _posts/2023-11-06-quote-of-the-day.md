@@ -1,8 +1,8 @@
 ---
 title: Quote of the day
 date: 2023-11-06 18:04:00 Australia/Melbourne
-categories: [TE, Quotes]
-tags: [thoughts]
+categories: [Notebook, Quotes]
+tags: [quotes]
 pin: false
 ---
 I record the quotes I like here. Most of them are from The Economist.
