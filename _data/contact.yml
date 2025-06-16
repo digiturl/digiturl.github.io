@@ -21,8 +21,15 @@
 #
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://cn.linedin.com/in/ttax'                  # Fill with your Linkedin homepage
-#
+  url:  'https://cn.linedin.com/in/ttnax'                  # Fill with your Linkedin homepage
+
+- type: researchgate
+  icon: 'fab fa-researchgate'
+  url:  'https://www.researchgate.net/profile/Nan-Xu-56'
+
+- type: google-scholar
+  icon: 'fab fa-google-scholar'
+  url:  'https://scholar.google.com.au/citations?user=rksuwmMAAAAJ&hl=en'
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
