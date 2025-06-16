@@ -1,8 +1,7 @@
 ---
 # the default layout is 'page'
-#icon: fas fa-info-circle
-#order: 4
-layout: home
+icon: fas fa-info-circle
+order: 1
 ---
 
 I am currently a PHD student in the <a href="https://infrastructure.eng.unimelb.edu.au/">Department of Infrastructure Engineering</a> , Faculty of Engineering and IT, University of Melbourne.
