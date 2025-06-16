@@ -28,8 +28,6 @@ url: 'https://digiturl.github.io'
 github:
   username: digiturl # change to your GitHub username
 
-linkedin:
-  username: ttnax # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -44,7 +42,7 @@ social:
     # - https://www.facebook.com/username
      - https://www.researchgate.net/profile/your-researchgate-profile
      - https://scholar.google.com/citations?user=your-google-scholar-id
-     - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/ttnax
 
 # Site Verification Settings
 webmaster_verifications:
