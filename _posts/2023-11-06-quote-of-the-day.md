@@ -5,6 +5,7 @@ categories: [TE, Quotes]
 tags: [thoughts]
 pin: false
 ---
+I record the quotes I like here. Most of them are from The Economist.
 
 2023-11-06   
 > Nations have their ego, just like individuals. by <a href="https://en.wikipedia.org/wiki/James_Joyce">James Joyce</a>
