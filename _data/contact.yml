@@ -21,7 +21,7 @@
 #
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://cn.linedin.com/in/ttnax'                  # Fill with your Linkedin homepage
+  url:  'https://cn.linkedin.com/in/ttnax'                  # Fill with your Linkedin homepage
 
 - type: researchgate
   icon: 'fab fa-researchgate'
@@ -30,6 +30,15 @@
 - type: google-scholar
   icon: 'fab fa-google-scholar'
   url:  'https://scholar.google.com.au/citations?user=rksuwmMAAAAJ&hl=en'
+
+- type: orcid
+  icon: 'fab fa-orcid'
+  url:  'https://orcid.org/0000-0003-4156-7276'
+
+- type: scopus
+  icon: 'fab fa-scopus'
+  url:  'https://www.scopus.com/authid/detail.uri?authorId=58889789600'
+
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
