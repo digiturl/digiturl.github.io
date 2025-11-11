@@ -16,10 +16,10 @@ timezone:
 
 title: Nan Xu # the main title
 
-tagline: PhD candidate in urban digitalization, University of Melbourne (UniMelb); former Mechanical Engineer for mechatronics in heavy industry. # it will display as the subtitle
+tagline: PhD in urban digitalisation, University of Melbourne (UniMelb); former mechanical engineer for mechatronics. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  PhD candidate in urban digitalization, University of Melbourne (UniMelb); former Mechanical Engineer for mechatronics in heavy industry.
+  PhD in urban digitalisation, University of Melbourne (UniMelb); former mechanical engineer for mechatronics.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
